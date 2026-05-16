@@ -1,4 +1,4 @@
-# 
+# instant Polymarket Plugin | trailing-stops + custom-strategies is the best Polymarket plugin, featuring trailing-stops and custom-strategies. Smart, fast, and optimized for
 
 
 
